@@ -1,0 +1,11 @@
+.form {
+  width: 60%;
+  margin: auto;
+  background-color: bisque;
+}
+
+.input {
+  margin: auto;
+  border-radius: 5px;
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.list {
+  width: 60%;
+  height: 20px;
+  margin: auto;
+  margin-top: 15px;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: burlywood;
+  text-align: center;
+}
